@@ -1,0 +1,28 @@
+name: Sophia McLees
+favicon: null
+layout_spectrum: 0.38079594960436225
+typography_spectrum: 0.6625990762840956
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7405080397147685
+  lightness: 0.285034614847973
+  saturation: 0.36999258934520185
+  rhythmicContrast: 0.8152703673113137
+purpose: []
